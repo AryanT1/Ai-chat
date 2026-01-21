@@ -1,4 +1,4 @@
-# AI-ChatBit Backend 🚀
+# AI-ChatBot Backend 🚀
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white )](https://www.typescriptlang.org/ )
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white )](https://nodejs.org/ )
@@ -8,7 +8,7 @@
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white )](https://stripe.com/ )
 [![OpenRouter](https://img.shields.io/badge/AI%20Model-GPT--4o--mini-000000?style=for-the-badge&logo=openai&logoColor=white )](https://openrouter.ai/ )
 
-**AI-ChatBit** is a production-ready, monetized backend API for a modern AI chat platform. It is built with a robust **TypeScript** and **Node.js** stack, providing secure user authentication, seamless payment integration, and intelligent rate-limiting for a freemium model.
+**AI-ChatBot** is a production-ready, monetized backend API for a modern AI chat platform. It is built with a robust **TypeScript** and **Node.js** stack, providing secure user authentication, seamless payment integration, and intelligent rate-limiting for a freemium model.
 
 ## ✨ Features
 
