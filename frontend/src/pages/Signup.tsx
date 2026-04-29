@@ -6,7 +6,7 @@ import { api } from '../api';
 import { useAuth } from '../context/AuthContext';
 
 export const Signup: React.FC = () => {
-  const [name, setName] = useState('');
+
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
